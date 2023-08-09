@@ -230,3 +230,28 @@ h1.texto-imagem {
   display: flex;
   align-items: center;
 }
+
+.last-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 1052px;
+  height: 201px;
+  border-radius: 20px;
+  background-color: #302f3d;
+  padding: 30px;
+  box-sizing: border-box;
+}
+
+.image-last-container {
+  width: 128px;
+  height: 128px;
+  border-radius: 64px;
+  object-fit: cover;
+}
+
+.hashtags {
+  display: flex;
+  justify-content: space-between;
+  width: 612px;
+}
