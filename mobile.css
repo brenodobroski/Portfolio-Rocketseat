@@ -1,6 +1,7 @@
 @media only screen and (max-device-width: 450px) {
   body {
     padding: 16px;
+    overflow-x: hidden;
   }
 
   .right-content {
