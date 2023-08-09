@@ -4,10 +4,7 @@ This is a project to start studies about HTML, CSS and JS. The main goal is crea
 
 ## Preview
 
-<img src="https://github.com/brenodobroski/Portfolio-Rocketseat/blob/master/preview.jpg"
-widh="500"
-
->
+<img src="https://github.com/brenodobroski/Portfolio-Rocketseat/blob/master/preview.jpg" alt="Portfolio Preview" height="400">
 
 ## Main concepts applied
 
