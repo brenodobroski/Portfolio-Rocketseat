@@ -1,0 +1,76 @@
+@media only screen and (max-device-width: 450px) {
+  body {
+    padding: 16px;
+  }
+
+  .right-content {
+    margin-left: 0px;
+  }
+
+  .my-projects-card {
+    margin-top: 60px;
+    width: 361px;
+  }
+
+  .project-card {
+    display: flex;
+    flex-direction: column;
+    width: 361px;
+  }
+
+  .project-card.direita {
+    width: 361px;
+    margin: 0px;
+    margin-top: 24px;
+  }
+
+  .project-card-conteiner {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .content {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .last-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 361px;
+    height: 431px;
+    padding: 30px;
+    box-sizing: border-box;
+  }
+
+  .last-container-h1-mobile {
+    margin: 0px;
+    margin-top: 24px;
+    width: 301px;
+  }
+
+  .last-container-p-mobile {
+    margin: 0px;
+    margin-top: 20px;
+  }
+
+  .last-container-p-mobile-2 {
+    margin: 0px;
+    margin-top: 20px;
+    width: 301px;
+  }
+
+  .hashtags {
+    margin: 0px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    margin-left: 310px;
+    height: 84px;
+  }
+
+  .hashtags.paragraph {
+    margin-left: 20px;
+  }
+}
