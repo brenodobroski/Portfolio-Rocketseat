@@ -94,6 +94,7 @@ li {
   border-radius: 20px;
   padding: 30px 40px;
   box-sizing: border-box;
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
 }
 
 .icon-card-content {
@@ -122,6 +123,7 @@ li {
   border-radius: 20px;
   width: 348px;
   height: 292px;
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
 }
 
 .image {
@@ -148,6 +150,7 @@ h1.texto-imagem {
   border-radius: 20px;
   padding: 30px;
   box-sizing: border-box;
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
 }
 
 .experiences-card {
@@ -157,6 +160,7 @@ h1.texto-imagem {
   border-radius: 20px;
   padding: 30px;
   box-sizing: border-box;
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
 }
 
 .education-card {
@@ -166,6 +170,7 @@ h1.texto-imagem {
   border-radius: 20px;
   padding: 30px;
   box-sizing: border-box;
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
 }
 
 .right-content {
@@ -185,6 +190,7 @@ h1.texto-imagem {
   border-radius: 20px;
   padding: 30px;
   box-sizing: border-box;
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
 }
 
 .project-card-conteiner {
@@ -200,6 +206,7 @@ h1.texto-imagem {
   background-color: #302f3d;
   border-radius: 20px;
   box-sizing: border-box;
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
 }
 
 .project-card.direita {
@@ -225,6 +232,7 @@ h1.texto-imagem {
   border-color: #837e9f;
   border-style: solid;
   border-radius: 8px;
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
 }
 .javascript-content {
   display: flex;
@@ -241,6 +249,7 @@ h1.texto-imagem {
   background-color: #302f3d;
   padding: 30px;
   box-sizing: border-box;
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
 }
 
 .image-last-container {
