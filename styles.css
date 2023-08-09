@@ -252,6 +252,6 @@ h1.texto-imagem {
 
 .hashtags {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   width: 612px;
 }
